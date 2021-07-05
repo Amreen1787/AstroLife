@@ -1,2 +1,1 @@
-# AstroLife
-Astro daily Activities
+# Astro-Daily-Life
